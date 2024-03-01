@@ -1,0 +1,116 @@
+1. The ages of students in a class are: 21, 22, 23, 24, and 25. What is the mean age of the students?
+2. A farmer records the weights of 10 apples he picked from his orchard: 120g, 130g, 140g, 150g, 160g, 170g, 180g, 190g, 200g, and 210g. What is the median weight of the apples?
+3. The following are the scores of a student in five exams: 85, 88, 90, 92, and 95. What is the mode of the scores?
+4. The heights (in inches) of students in a class are: 60, 62, 63, 65, and 68. What is the median height of the students?
+5. The speeds (in mph) of cars passing through a toll booth are: 50, 55, 60, 65, 70, and 75. What is the mean speed of the cars?
+6. The weights (in kg) of students in a class are: 50, 55, 60, 65, 70, and 75. What is the range of weights?
+7. A data set has the following values: 12, 15, 18, 20, 25, 30, 35. What is the interquartile range (IQR)?
+8. The following are the ages (in years) of employees in a company: 25, 30, 35, 40, 45, 50, 55. What is the variance of ages?
+9. A bag contains balls numbered from 1 to 10. What is the standard deviation of the numbers on the balls?
+10. The rainfall (in mm) in a city for 7 days is: 5, 10, 15, 20, 25, 30, 35. What is the coefficient of variation of the rainfall?
+11. The scores of students in a math test are: 80, 85, 90, 95, 100. Calculate the mean, median, and mode of the scores.
+12. A store sells 10 different brands of laptops. The prices (in dollars) of the laptops are: $500, $600, $700, $800, $900, $1000, $1100, $1200, $1300, $1400. Calculate the range and standard deviation of the laptop prices.
+13. A survey asks people about their monthly income (in dollars). The data collected is: $1000, $1500, $2000, $2500, $3000, $3500, $4000, $4500, $5000. Find the mean, median, and standard deviation of the incomes.
+14. A teacher records the number of pages read by each student in a reading competition. The data is: 20, 25, 30, 35, 40, 45, 50. Calculate the mean, variance, and coefficient of variation of the number of pages read.
+15. A researcher records the temperatures (in Celsius) in a city for 7 days. The data is: 10, 12, 14, 16, 18, 20, 22. Determine the median, IQR, and coefficient of variation of the temperatures.
+16. The ages of students in a class are: 19, 20, 21, 21, 22, 22, 23, 24, 25, 26. If the mean age of the students is 22, find the missing age.
+17. In a survey, the monthly salaries (in dollars) of 8 employees are: $2500, $3000, $3500, $4000, $4500, $5000, $5500, $6000. If the median salary is $4500, what is the value of the highest salary?
+18. The scores of a group of students in a test are: 75, 78, 80, 82, 85, 87, 90, 92. If the mode of the scores is 80, how many students scored below the mean score?
+19. A factory produces bolts of varying lengths. The lengths (in cm) of 12 randomly selected bolts are: 10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38. If the median length is 22 cm, how many bolts are shorter than the median length?
+20. The heights (in inches) of 10 people are: 64, 65, 66, 67, 68, 69, 70, 71, 72, 75. If the mean height is 68 inches, what is the sum of the deviations of each height from the mean?
+21. The weights (in kg) of 6 students are: 55, 60, 65, 70, 75, 80. If the range of weights is 25 kg, what is the difference between the third quartile and the first quartile?
+22. A data set has the following values: 10, 15, 20, 25, 30, 35, 40. If the interquartile range (IQR) is 20, what is the range of the data set?
+23. The number of books read by students in a month are: 4, 6, 8, 10, 12, 14, 16. If the standard deviation of the number of books read is 4, what is the variance?
+24. A survey records the commute times (in minutes) of 20 participants: 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120. If the coefficient of variation is 0.25, what is the mean commute time?
+25. The heights (in inches) of 8 individuals are: 60, 61, 62, 63, 64, 65, 66, 67. If the coefficient of variation is 0.1, what is the standard deviation?
+
+1. A box plot is drawn for the heights of students in a class. If the box represents the middle 50% of the data, what does the line inside the box represent?
+2. In a box plot, what does the length of the box represent?
+3. A box plot is drawn for the ages of participants in a survey. If the whiskers extend to 1.5 times the interquartile range (IQR), what do outliers represent?
+4. If a box plot has a longer whisker on the upper end compared to the lower end, what does it suggest about the data distribution?
+5. In a box plot, what does the position of the median line inside the box indicate about the data?
+
+
+6. The following are the ages of 10 students in a class: 18, 19, 20, 21, 22, 23, 24, 25, 26, 27. Calculate the interquartile range (IQR) of the ages.
+7. A data set has the following values: 10, 12, 15, 18, 20, 22, 25. What is the interquartile range (IQR)?
+8. The following are the test scores of a group of students: 75, 80, 85, 90, 95. Calculate the interquartile range (IQR) of the scores.
+9. The weights (in kg) of a sample of 8 people are: 55, 60, 65, 70, 75, 80, 85, 90. Find the interquartile range (IQR) of the weights.
+10. The heights (in inches) of 8 individuals are: 60, 62, 64, 66, 68, 70, 72, 74. Determine the interquartile range (IQR) of the heights.
+
+11. A box plot is drawn for the test scores of students in a class. If the lower quartile (Q1) is 70 and the upper quartile (Q3) is 90, what is the interquartile range (IQR)?
+12. In a survey, the commute times (in minutes) of participants are recorded. If the interquartile range (IQR) is 15 minutes, what percentage of participants have a commute time between Q1 and Q3?
+13. A box plot is drawn for the prices of laptops in a store. If the interquartile range (IQR) is $300 and the median price is $800, what is the price range of the middle 50% of the laptops?
+14. The ages of students in a class are represented by a box plot. If the whiskers extend to 1.5 times the interquartile range (IQR), what do the data points outside the whiskers indicate?
+15. A box plot is drawn for the number of books read by students in a month. If the interquartile range (IQR) is 5 books, what percentage of students read more than Q3 + 1.5 * IQR books?
+
+1. In a study on reaction times, the interquartile range (IQR) of a group of participants is 0.08 seconds. If the third quartile (Q3) is 0.32 seconds, what is the first quartile (Q1)?   
+2. A factory produces bolts with varying lengths. The interquartile range (IQR) of the bolt lengths is 3 cm. If the first quartile (Q1) is 10 cm, what is the third quartile (Q3)?
+3. A researcher records the temperatures (in Celsius) in a city for 30 days. The interquartile range (IQR) of the temperatures is 8°C. If the third quartile (Q3) is 28°C, what is the first quartile (Q1)?
+4. The weights (in kg) of students in a class are recorded. The interquartile range (IQR) of the weights is 6 kg. If the third quartile (Q3) is 70 kg, what is the first quartile (Q1)?
+5. A box plot is drawn for the ages of participants in a marathon race. If the interquartile range (IQR) is 5 years and the third quartile (Q3) is 45 years, what is the first quartile (Q1)?
+6. In a survey, the monthly incomes (in dollars) of participants are recorded. The interquartile range (IQR) of the incomes is $2000. If the first quartile (Q1) is $4000, what is the third quartile (Q3)?
+7. The test scores of students in a class are represented by a box plot. If the interquartile range (IQR) is 15 points and the first quartile (Q1) is 60, what is the third quartile (Q3)?
+8. A data set contains the heights (in inches) of participants in a study. The interquartile range (IQR) of the heights is 4 inches. If the first quartile (Q1) is 62 inches, what is the third quartile (Q3)?
+9. In a study on travel times, the interquartile range (IQR) of a sample of journeys is 20 minutes. If the third quartile (Q3) is 60 minutes, what is the first quartile (Q1)?
+10. A box plot is drawn for the prices of smartphones in a store. If the interquartile range (IQR) is $150 and the third quartile (Q3) is $800, what is the first quartile (Q1)?
+
+
+1. A researcher wants to investigate the relationship between the number of hours students spend studying per week and their GPA. If the correlation coefficient between the two variables is 0.65, how would you interpret this relationship?
+2. In a study on exercise habits and heart health, researchers found a correlation coefficient of -0.70 between the number of hours of exercise per week and cholesterol levels. What does this correlation coefficient suggest about the relationship between exercise and cholesterol levels?
+3. A company wants to analyze the relationship between advertising spending and sales revenue. If the correlation coefficient between the two variables is 0.85, how would you interpret this relationship in terms of the company's marketing strategy?
+4. In a survey of car owners, researchers found a correlation coefficient of -0.50 between the age of a car and its resale value. What does this correlation coefficient suggest about the depreciation of cars over time?
+5.  study examines the relationship between monthly household income and expenditure on luxury items. If the correlation coefficient between the two variables is -0.25, how would you interpret this relationship in terms of personal finance management?
+6. A researcher analyzes the relationship between temperature and ice cream sales. If the correlation coefficient between the two variables is 0.90, what does this suggest about the impact of temperature on consumer behavior?
+7. In a study on employee satisfaction and productivity, researchers found a correlation coefficient of 0.60 between job satisfaction scores and performance ratings. How would you interpret this correlation in terms of human resource management?
+8. A school administrator wants to examine the relationship between class attendance and academic performance. If the correlation coefficient between the two variables is -0.40, what implications does this have for improving student outcomes?
+9. A researcher investigates the relationship between sleep duration and cognitive function. If the correlation coefficient between the two variables is 0.75, how would you interpret this finding in terms of overall health and well-being?
+10. In a study on environmental pollution and respiratory health, researchers found a correlation coefficient of 0.80 between air quality index and asthma prevalence. What does this correlation coefficient suggest about the impact of pollution on respiratory diseases?
+
+1. A researcher collects data on the number of hours students spend studying per week and their scores on a standardized test. The data for five students is as follows:
+
+   | Student | Hours Studied | Test Score |
+   |---------|---------------|------------|
+   |   A     |      5        |    80      |
+   |   B     |      7        |    85      |
+   |   C     |      4        |    75      |
+   |   D     |      6        |    90      |
+   |   E     |      8        |    95      |
+
+   Calculate the correlation coefficient between the number of hours studied and test scores for these students.
+
+2. A company collects data on advertising spending (in thousands of dollars) and monthly sales revenue (in thousands of dollars) for a product over the past year. The data for twelve months is as follows:
+
+   | Month | Advertising Spending | Sales Revenue |
+   |-------|----------------------|---------------|
+   |   Jan |           20         |       100     |
+   |   Feb |           25         |       110     |
+   |   Mar |           30         |       120     |
+   |   Apr |           35         |       130     |
+   |   May |           40         |       140     |
+   |   Jun |           45         |       150     |
+   |   Jul |           50         |       160     |
+   |   Aug |           55         |       170     |
+   |   Sep |           60         |       180     |
+   |   Oct |           65         |       190     |
+   |   Nov |           70         |       200     |
+   |   Dec |           75         |       210     |
+
+   Calculate the correlation coefficient between advertising spending and sales revenue for this product.
+
+3. A researcher investigates the relationship between temperature (in Celsius) and ice cream sales (in units) over a month. The data for temperature and ice cream sales for each day of the month is given below:
+
+   | Day | Temperature | Ice Cream Sales |
+   |-----|-------------|-----------------|
+   |  1  |     20      |        100      |
+   |  2  |     22      |        110      |
+   |  3  |     25      |        120      |
+   |  4  |     28      |        130      |
+   |  5  |     30      |        140      |
+   |  6  |     32      |        150      |
+   |  7  |     35      |        160      |
+   |  8  |     38      |        170      |
+   |  9  |     40      |        180      |
+   |  10 |     35      |        160      |
+   | ... |    ...      |        ...      |
+
+   Calculate the correlation coefficient between temperature and ice cream sales for this month.
