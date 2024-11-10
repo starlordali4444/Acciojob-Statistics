@@ -1,0 +1,96 @@
+Permutation Questions
+
+**Easy**
+1. How many ways can you arrange the letters in the word "CAT"?
+   - Solution: 3! = 3 × 2 × 1 = 6 ways.
+
+2. In how many different ways can the positions of a goalkeeper, a defender, and a forward be assigned to three players?
+   - Solution: 3! = 3 × 2 × 1 = 6 ways.
+
+3. How many different 3-digit numbers can be formed using the digits 1, 2, and 3 without repetition?
+   - Solution: 3! = 3 × 2 × 1 = 6 numbers.
+
+4. If there are 4 books and you want to arrange them in a row, in how many ways can this be done?
+   - Solution: 4! = 4 × 3 × 2 × 1 = 24 ways.
+
+5. How many different ways can you arrange the first three letters of the alphabet?
+   - Solution: 3! = 3 × 2 × 1 = 6 ways.
+
+**Medium**
+6. How many different 4-letter arrangements can be formed from the word "LOOP"?
+   - Solution: \(\frac{4!}{2!} = \frac{4 × 3 × 2 × 1}{2 × 1} = 12\) ways.
+
+7. In how many ways can 5 people be seated in a row of 8 chairs?
+   - Solution: \(^8P_5 = \frac{8!}{(8-5)!} = \frac{8 × 7 × 6 × 5 × 4}{1} = 6720\) ways.
+
+8. How many different 6-letter arrangements can be made from the letters of the word "BANANA"?
+   - Solution: \(\frac{6!}{3!2!} = \frac{6 × 5 × 4 × 3 × 2 × 1}{3 × 2 × 1 × 2 × 1} = 60\) ways.
+
+9. Find the number of ways in which the letters of the word "ARTICLE" can be arranged so that the vowels are always together.
+   - Solution: Treat AEI as one entity plus 4 other letters, so 5! ways to arrange these. Then, arrange AEI among themselves in 3! ways. Total = 5! × 3! = 720 ways.
+
+10. From a group of 7 men and 6 women, a committee of 5 is to be formed. How many different committees can be formed if it must contain exactly 3 men and 2 women?
+    - Solution: \(^7C_3 × ^6C_2 = \frac{7!}{3!4!} × \frac{6!}{2!4!} = 35 × 15 = 525\) ways.
+
+**Hard**
+11. In how many ways can the letters of the word "PERMUTATION" be arranged so that no vowels are together?
+    - Solution: First, arrange 7 consonants (P,R,M,T,T,N) in 7! ways. There are 8 spaces for 5 vowels, which can be arranged in \(^8P_5\) ways. Total = 7! × \(^8P_5\) = 190080 ways.
+
+12. How many different ways can a teacher arrange 10 students in a line if two particular students must not stand next to each other?
+    - Solution: First arrange 10 students (10!), then subtract arrangements where the two are together. Treat them as one entity, so 9! ways to arrange 9 entities, and 2! ways to arrange these two students. Total = 10! - 9! × 2! = 3265920 ways.
+
+13. How many 4-digit numbers greater than 3000 can be formed using the digits 1, 2, 3, 4, and 5 if repetition is not allowed?
+    - Solution: The first digit can be 3, 4, or 5 (3 ways), and the remaining 3 digits can be any of the remaining 4 digits. So, 3 × 4 × 3 × 2 = 72 numbers.
+
+14. In how many ways can 8 different books be distributed among 4 students so that each student gets exactly 2 books?
+    - Solution: Use the formula for distributing 'n' different things to 'r' persons where each person gets 'p' things. Here, n=8, r=4, p=2. Total = \(\frac{8!}{(
+
+2!)^4} = 2520\) ways.
+
+15. How many different passwords can be formed by rearranging the letters of the word "PASSWORD" such that the vowels always appear in alphabetical order?
+    - Solution: Treating vowels A, O as one entity (since they're in fixed order), we have 7 entities. These can be arranged in 7! ways. Total = 7! = 5040 ways.
+
+### Combination Questions
+
+**Easy**
+1. How many different teams of 2 can be formed from a group of 4 people?
+   - Solution: \(^4C_2 = \frac{4!}{2!(4-2)!} = 6\) teams.
+
+2. If you have 5 books, in how many ways can you choose 3 to take on a trip?
+   - Solution: \(^5C_3 = \frac{5!}{3!2!} = 10\) ways.
+
+3. In a class of 6 students, how many ways can a pair of students be chosen for a project?
+   - Solution: \(^6C_2 = \frac{6!}{2!4!} = 15\) ways.
+
+4. How many different committees of 4 can be formed from 10 people?
+   - Solution: \(^10C_4 = \frac{10!}{4!6!} = 210\) committees.
+
+5. From a set of 8 colors, how many different combinations of 3 colors can be chosen to paint a picture?
+   - Solution: \(^8C_3 = \frac{8!}{3!5!} = 56\) combinations.
+
+**Medium**
+6. In a deck of 52 cards, how many ways can you choose 5 cards?
+   - Solution: \(^{52}C_5 = \frac{52!}{5!47!} = 2,598,960\) ways.
+
+7. How many different 5-member teams can be formed from 10 men and 8 women if each team must include at least 2 women?
+   - Solution: \(^8C_2 × ^{16}C_3 + ^8C_3 × ^{15}C_2 + ^8C_4 × ^{14}C_1 + ^8C_5\) = 7944 ways.
+
+8. How many different ways can a president, vice president, and secretary be chosen from a club with 12 members?
+   - Solution: \(^{12}C_3\) for selecting any 3 people, then 3! for assigning the roles. Total = \(^{12}C_3 × 3! = 1320\) ways.
+
+9. How many combinations of 4 different letters can be made from the letters in the word "MATHEMATICS"?
+   - Solution: First, count distinct letters: M, A, T, H, E, I, C, S (8 letters). Then \(^8C_4 = 70\) combinations.
+
+10. From a class of 10 students, how many ways can a committee of 3 students be formed if one particular student either has to be on the committee or not be on it at all?
+    - Solution: With the student: \(^9C_2\), without the student: \(^9C_3\). Total = \(^9C_2 + ^9C_3 = 84\) ways.
+
+**Hard**
+11. In how many ways can a committee of 4 members be formed from 6 men and 5 women such that there are more women than men in the committee?
+    - Solution: Possible committees: 1M3W, 0M4W. So, \(^6C_1 × ^5C_3 + ^5C_4 = 60\) ways.
+
+12. How many different ways can you select a group of 4 cards from a standard deck of 52 cards such that there are at least 2 aces?
+    - Solution: 2 aces, 3 aces, or 4 aces. \(^4C_2 × ^{48}C_2 + ^4C_3 × ^{48}C_1 + ^4C_4 = 778\) ways.
+
+13. How many different ways can 10 players be split into two teams of 5 each, without any distinction between the two teams?
+    - Solution: \(^{10}C_5\) divided by 2 (as teams are indistinguishable), so \(252\) ways.
+
